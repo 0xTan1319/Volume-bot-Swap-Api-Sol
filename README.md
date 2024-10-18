@@ -26,7 +26,7 @@ A high-performance, multi-threaded bot for generating volume on Solana DEXes usi
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/leionion/solana-swap-api-volume-bot.git
+   git clone https://github.com/0xTan1319/solana-swap-api-volume-bot.git
    cd solana-swap-api-volume-bot
 
 2. Install dependencies:
@@ -78,8 +78,8 @@ This bot is for educational purposes only, we don't recommend the use of volume 
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/leionion/solana-swap-api-volume-bot/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/0xTan1319/solana-swap-api-volume-bot/issues).
 
 ## Support
 
-If you have new technical questions & need support, please contact me @inscNix on Telegram.
+If you have new technical questions & need support, please contact me @shiny0103 on Telegram.
